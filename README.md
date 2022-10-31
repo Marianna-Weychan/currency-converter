@@ -4,7 +4,7 @@
 
 
 ## 🔍 Demo
-([https://marianna-weychan.github.io/currency-converter/](https://marianna-weychan.github.io/currency-converter/))
+[Link to the demo](https://marianna-weychan.github.io/currency-converter/)
 
 ## [](https://github.com/Marianna-Weychan/currency-converter/edit/main/README.md#short-description) ⌨️ Short description
 
